@@ -1,0 +1,12 @@
+C:\Users\paulo\Documents\Alura-Estudos\TDDXUnit\LeilaoOnline\LeilaoOnline\bin\Debug\netcoreapp2.1\LeilaoOnline.deps.json
+C:\Users\paulo\Documents\Alura-Estudos\TDDXUnit\LeilaoOnline\LeilaoOnline\bin\Debug\netcoreapp2.1\LeilaoOnline.runtimeconfig.json
+C:\Users\paulo\Documents\Alura-Estudos\TDDXUnit\LeilaoOnline\LeilaoOnline\bin\Debug\netcoreapp2.1\LeilaoOnline.runtimeconfig.dev.json
+C:\Users\paulo\Documents\Alura-Estudos\TDDXUnit\LeilaoOnline\LeilaoOnline\bin\Debug\netcoreapp2.1\LeilaoOnline.dll
+C:\Users\paulo\Documents\Alura-Estudos\TDDXUnit\LeilaoOnline\LeilaoOnline\bin\Debug\netcoreapp2.1\LeilaoOnline.pdb
+C:\Users\paulo\Documents\Alura-Estudos\TDDXUnit\LeilaoOnline\LeilaoOnline\obj\Debug\netcoreapp2.1\LeilaoOnline.csprojAssemblyReference.cache
+C:\Users\paulo\Documents\Alura-Estudos\TDDXUnit\LeilaoOnline\LeilaoOnline\obj\Debug\netcoreapp2.1\LeilaoOnline.AssemblyInfoInputs.cache
+C:\Users\paulo\Documents\Alura-Estudos\TDDXUnit\LeilaoOnline\LeilaoOnline\obj\Debug\netcoreapp2.1\LeilaoOnline.AssemblyInfo.cs
+C:\Users\paulo\Documents\Alura-Estudos\TDDXUnit\LeilaoOnline\LeilaoOnline\obj\Debug\netcoreapp2.1\LeilaoOnline.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Alura-Estudos\TDDXUnit\LeilaoOnline\LeilaoOnline\obj\Debug\netcoreapp2.1\LeilaoOnline.dll
+C:\Users\paulo\Documents\Alura-Estudos\TDDXUnit\LeilaoOnline\LeilaoOnline\obj\Debug\netcoreapp2.1\LeilaoOnline.pdb
+C:\Users\paulo\Documents\Alura-Estudos\TDDXUnit\LeilaoOnline\LeilaoOnline\obj\Debug\netcoreapp2.1\LeilaoOnline.genruntimeconfig.cache
